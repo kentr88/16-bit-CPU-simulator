@@ -1,0 +1,5 @@
+addi 1 0 5
+addi 1 1 5
+addi 1 1 5
+store 1 42
+halt
